@@ -1,5 +1,5 @@
 # beecrowd
-Some of my solutions from beecrowd platform
+Some of my solutions from beecrowd platform.
 
 PLEASE, DON'T COPY AND PAST MY SOLUTIONS TO YOUR BEECROWD!! DON'T BE A SCRIPT KIDDIE!
 
